@@ -1,0 +1,29 @@
+{
+    "schemaVersion": 1,
+    "id": "ez_ae2",
+    "version": "1.0",
+    "name": "Ez-ae2",
+    "description": "Applied Energistics recipes without any meteoric related stuff",
+    "authors": [
+        "DevDyna"
+    ],
+    "contact": {
+        "homepage": "https://legacy.curseforge.com/minecraft/mc-mods/chipped-express",
+        "sources": "https://github.com/DevDyna/Chipped-Express",
+        "issues": "https://github.com/DevDyna/Chipped-Express/issues"
+    },
+    "license": "MIT",
+    "icon": "pack.png",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [],
+    "depends": {},
+    "custom": {
+        "modmenu": {
+            "links": {
+                "modmenu.curseforge": "https://legacy.curseforge.com/minecraft/mc-mods/chipped-express",
+                "modmenu.wiki": "https://github.com/DevDyna/Chipped-Express"
+            }
+        }
+    }
+}
