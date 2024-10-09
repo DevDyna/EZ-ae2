@@ -41,7 +41,7 @@ license="MIT"
 [[dependencies.ez_ae2]]
 	modId = "advanced_ae"
 	mandatory = false
-	versionRange = "[1.0.0,)"
+	versionRange = "[0.1.0,)"
 	ordering = "NONE"
 	side = "BOTH"
 	
