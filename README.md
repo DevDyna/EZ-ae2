@@ -1,5 +1,5 @@
 # Ez-ae2
-Refined Storage recipes applied on AE2 (removing certus and press related stuff)
+Refined Storage recipe style applied on AE2 (removing certus and press related stuff)
 
 Feature List:
 - Completly remove ae2 meteorits spawn on world
